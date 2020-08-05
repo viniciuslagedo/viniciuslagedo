@@ -34,6 +34,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslagedo&layout=compact)](https://github.com/viniciuslagedo/github-readme-stats)
 
+## 💰 Donate
+
+<a href="https://www.buymeacoffee.com/viniciuslagedo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <!--
 **viniciuslagedo/viniciuslagedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
