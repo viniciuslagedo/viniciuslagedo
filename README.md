@@ -1,13 +1,13 @@
 ## 🤙🏻 Intro
 <img align="right" alt="Hello" src="https://media.giphy.com/media/3ov9jRXY88TszvB8kw/giphy.gif" width="200" />
 <div align="left">
-    <p>I'm Vinícius Lagêdo, a Full Stack Developer from Brazil.</p>
+    <p>I'm Vinícius Lagêdo, a Full Stack Developer from Brazil 🇧🇷</p>
     <ul>
-        <li>Currently I'm a Specialist of Development <a href="https://github.com/telecine">@Telecine</a></li>
-        <li>I have a degree in Graphic Design from Castelo Branco University</li>
-        <li>Front end is my secret passion</li>
-        <li>I'm a Giants fan in the NFL</li>
-        <li>I'm really like beer and video games</li>
+        <li>👔 Currently I'm a Specialist of Development <a href="https://github.com/telecine">@Telecine</a></li>
+        <li>🎓 I have a degree in Graphic Design from Castelo Branco University</li>
+        <li><img alt="Love" src="https://emojis.slackmojis.com/emojis/images/1500426224/2650/allo-love.gif?1500426224" width="15" /> Front end is my secret passion</li>
+        <li><img alt="Giants Logo" src="https://emojis.slackmojis.com/emojis/images/1472153436/1098/giants.jpg?1472153436" width="15" /> I'm a Giants fan in the NFL</li>
+        <li><img alt="Beer" src="https://emojis.slackmojis.com/emojis/images/1531847273/4225/blob-beers.gif?1531847273" width="15" /> I'm really like beer and video games</li>
     </ul>
 </div>
 
