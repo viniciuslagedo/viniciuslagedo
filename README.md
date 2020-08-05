@@ -13,27 +13,26 @@
 
 
 ## 📫 Don't be shy and follow me!
+
 <a href="https://twitter.com/viniciuslagedo" target="_blank" style="margin: 10px;">
-    <img alt="Twitter" src="./images/twitter.svg" width="30" />
+    <img alt="Twitter" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" width="30" />
 </a>
 <a href="https://open.spotify.com/user/vlagedo?si=rSBsaqkNSWm8CymCX6Eewg" target="_blank" style="margin: 10px;">
-    <img alt="Spotify" src="./images/spotify.svg" width="30" />
+    <img alt="Spotify" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/vinicius-lagedo/" target="_blank" style="margin: 10px;">
-    <img alt="LinkedIn" src="./images/linkedin.svg" width="30" />
+    <img alt="LinkedIn" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" width="30" />
 </a>
 <a href="https://www.instagram.com/viniciuslagedo/" target="_blank" style="margin: 10px;">
-    <img alt="Instagram" src="./images/instagram.svg" width="30" />
+    <img alt="Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" width="30" />
 </a>
 <a href="https://steamcommunity.com/id/viniciuslagedo/" target="_blank" style="margin: 10px;">
-    <img alt="Steam" src="./images/steam.svg" width="30" />
+    <img alt="Steam" src="https://unpkg.com/simple-icons@v3/icons/steam.svg" width="30" />
 </a>
 
 ## 💻 Open Source Work Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslagedo&layout=compact)](https://github.com/viniciuslagedo/github-readme-stats)
-
-<small>Icons made by <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a></small>
 
 <!--
 **viniciuslagedo/viniciuslagedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
