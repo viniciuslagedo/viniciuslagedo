@@ -26,9 +26,6 @@
 <a href="https://www.instagram.com/viniciuslagedo/" target="_blank" style="margin: 10px;">
     <img alt="Instagram" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" width="30" />
 </a>
-<a href="https://steamcommunity.com/id/viniciuslagedo/" target="_blank" style="margin: 10px;">
-    <img alt="Steam" src="https://unpkg.com/simple-icons@v3/icons/steam.svg" width="30" />
-</a>
 
 ## 💻 Open Source Work Stats
 
